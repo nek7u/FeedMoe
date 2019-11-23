@@ -11,13 +11,16 @@ h5 {margin:0 1em; font-size:18px;}
 body > div { padding:2em; }
 section > div { margin:2em; }
 code { font-family:monospace; background-color:#e6e6e6; border-radius:3px; border:1px solid #cccccc; padding:0 4px; }
-.bgheader { width:100%; height:auto; }
+header > img { width:100%; height:auto; }
+.img-hdr { position:relative; }
+.img-hdr .hdr-active { position:absolute; left:0; top:0; opacity:0; transition:0.6s; }
+.img-hdr:hover .hdr-active { opacity:1; }
 .ico16 { margin:0 4px; }
 </style>
 <title>FeedMoe</title>
 </head>
 <body>
-<img src="o1500x500-skins.png" alt="" class="bgheader" />
+<header class="img-hdr"><img src="1500x500_hdro.png" alt="" /><img src="1500x500_hdrt.png" alt="" class="hdr-active" /></header>
 <div>
 <h2>FeedMoe</h2>
 <div>FeedMoe is a skin for <a href="https://www.rainmeter.net/" target="_blank"><img src="Rainmeter_16.png" alt="" class="ico16" />Rainmeter</a>.</div>
