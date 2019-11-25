@@ -1,3 +1,4 @@
+* { box-sizing: border-box; }
 html,body { margin:0; padding:0; }
 html { height:100%; background-color:#C8C8CB; }
 body { min-height:100%; width:60em; margin:0 auto; background-color:#ffffff; font-family:sans-serif; font-size:18px; }
@@ -6,6 +7,7 @@ a:hover, a:active, a:focus { text-decoration:underline; }
 h5 {margin:0 1em; font-size:18px;}
 body > div { padding:2em; }
 section > div { margin:2em; }
+section > div > img { display:block; }
 code { font-family:monospace; background-color:#e6e6e6; border-radius:3px; border:1px solid #cccccc; padding:0 4px; }
 header > img { width:100%; height:auto; }
 .img-hdr { position:relative; }
