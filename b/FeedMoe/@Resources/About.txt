@@ -1,0 +1,159 @@
+================================================================
+ FeedMoe        Skin for Rainmeter desktop customization tool
+
+ - Simple skin for RSS Feeds. RSS2.0 and some Atom formats.
+ - Keyword filtering, URL filtering.
+ - Low cpu usage.
+ - Plugin FeedReader.dll version 2.3.0 by Martin Green
+================================================================
+https://nek7u.github.io/FeedMoe/                     2019-11-26
+
+
+
+Variables for Skin.ini (and @Resources\Variables.inc)
+================================================================
+
+SKIN_WIDTH=             number, pixels | default: 280
+
+FEED_URL=               string, RSS2.0/Atom Feed URL
+
+FEED_TITLE=             string
+
+MAX_ITEMS=              number, 1-20 | default: 8
+
+ITEM_TITLE_SUBSTITUTE=  string, "pattern":"replacement"
+
+    "(?i)Facebook":"fb", ".+something.*":""
+    "(?i)^(?:alpha|beta) .+|.+ (?:alpha|beta) .+|.+ (?:alpha|beta)$":""
+    "(?i)(?(?!.*(?:Tokyo|2020|Olympic))^.+)":""
+
+                        (?i)   case insensitive.
+                        .+     matches any character(1-).
+                        .*     matches any character(0-).
+                        ^      asserts position at start of a line.
+                        $      asserts position at the end of a line.
+
+ITEM_LINK_SUBSTITUTE=  string, "pattern":"replacement"
+
+    "(?si)^(?(?!https://(?:[0-9a-z-]+\.)?twitter\.com/).+)":""
+
+    **If Item_Title or Item_Link is empty(""), the Item will not be listed.
+    You can hide the stories, articles you don't need.**
+
+    https://docs.rainmeter.net/manual/measures/general-options/substitute/
+
+ITEM_TITLE_PREFIX=      string
+
+ITEM_PADDING=           numbers, [Left],[Top],[Right],[Bottom] | default: 4,1,4,1
+
+_FONT_NAME=             string | default: Segoe UI
+
+                        Segoe UI, Calibri, Arial, Arial Narrow, Tahoma, Verdana,
+                        Trebuchet MS, Sitka Display
+
+                        ## Japanese
+                        Meiryo UI, Yu Gothic UI Semibold, BIZ UDPGothic,
+                        UD Digi Kyokasho NK-R, Yu Mincho Demibold, BIZ UDPMincho Medium
+
+_FONT_SIZE=             number | default: 12
+
+_FONT_WEIGHT=           number, 1-999 | default: 400
+
+                        100:Thin, 200:Extra Light, 300:Light, 400:Regular, 500:Medium
+                        600:Semi Bold, 700:Bold, 800:Extra Bold, 900:Black, 950:Extra Black
+
+_COLOR=                 hexadecimal numbers, [Red:0-FF][Green:0-FF][Blue:0-FF][Alpha:0-FF]
+                        decimal numbers, [Red:0-255],[Green:0-255],[Blue:0-255],[Alpha:0-255]
+
+                        ## Base colors               ## Accent colors
+                        FFCABF    255,202,191        FF4B00    255,75,0
+                        FFFF80    255,255,128        FFF100    255,241,0
+                        D8F255    216,242,85         03AF7A    3,175,122
+                        BFE4FF    191,228,255        005AFF    0,90,255
+                        FFCA80    255,202,128        4DC4FF    77,196,255
+                        77D9A8    119,217,168        FF8082    255,128,130
+                        C9ACE6    201,172,230        F6AA00    246,170,0
+                                                     990099    153,0,153
+                        ## White-Black               804000    128,64,0
+                        FFFFFF    255,255,255
+                        C8C8CB    200,200,203
+                        84919E    132,145,158
+                        000000    0,0,0          Color Universal Design.(2018-04)
+
+                        ## Alpha
+                        FF    255    100%
+                        E6    230     90%
+                        CC    204     80%
+                        B3    179     70%
+                        99    153     60%
+                        80    128     50%
+                        66    102     40%
+                        4D    77      30%
+                        33    51      20%
+                        1A    26      10%
+                        00    0        0%
+
+FEED_UPDATE_INTERVAL_MINUTES=
+                        number, 1- | default: 10
+
+
+
+RSS2.0 / Atom Feeds
+================================================================
+
+## Twitter, Facebook, Instagram
+
+## reddit
+work        https://www.reddit.com/hot/.xml
+work        https://www.reddit.com/r/Rainmeter/new/.xml
+work        https://www.reddit.com/search.rss?q=Tokyo+2020+Olympic&sort=new
+
+## YouTube
+work        https://www.youtube.com/feeds/videos.xml?user=
+work        https://www.youtube.com/feeds/videos.xml?channel_id=
+work        https://www.youtube.com/feeds/videos.xml?playlist_id=
+
+## Others
+not work    https://feeds.feedburner.com/
+
+
+
+Plugin FeedReader.dll version 2.3.0 by Martin Green
+================================================================
+(CC BY-NC-ND 3.0 Unported)
+
+filename: FeedReader.dll
+ version: 2.3.0 (64-bit)
+  SHA256: d6a28838e766f7869a8bc963b969fad7b0d1657ba0545ffe98d90889dac20b13
+    SHA1: 5d092bb0a678ba9ab0c70c086625d248c1844583
+     MD5: f5a48c1ac342d2140404113e4961bb6f
+
+filename: FeedReader.dll
+ version: 2.3.0 (32-bit)
+  SHA256: fad9a9a0879580be14be844aeee513fafd879627f466fbcb649dbc2c88fa679e
+    SHA1: d2db58890e46ddeaf3957f6927b6b8b665e73660
+     MD5: c4e6a65f8812bd4a97df54da53c0bab7
+
+
+
+Thank you for ..
+================================================================
+
+Rainmeter    https://www.rainmeter.net/
+
+Plugin      Martin Green's FeedReader.dll version 2.3.0
+             https://www.deviantart.com/limeycanuck
+
+Design      Ragingwasabi's RSS Feed Reader Pack
+             https://www.deviantart.com/ragingwasabi
+
+Docs        Rainmeter Documents
+             https://docs.rainmeter.net/manual/
+
+Images      Google Material Icons
+             https://material.io/resources/icons/
+
+Testing     Microsoft(Sysinternals) Process Monitor, Taskmgr
+             https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+Rainmeter.net, Rainmeter related designers, developers and community.
