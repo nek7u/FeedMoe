@@ -13,4 +13,7 @@ header > img { width:100%; height:auto; }
 .img-hdr { position:relative; }
 .img-hdr .hdr-active { position:absolute; left:0; top:0; opacity:0; transition:0.6s; }
 .img-hdr:hover .hdr-active { opacity:1; }
-.ico16 { margin:0 4px; }
+.ico16 { height:16px; margin:0 4px; vertical-align:middle; }
+.ico24 { height:24px; margin:0 4px; vertical-align:middle; }
+.pnav a:visited { color:#0000ee; }
+.pnav .ico24 { margin-left:0; }
