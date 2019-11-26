@@ -6,7 +6,7 @@ a { text-decoration:none; }
 a:hover, a:active, a:focus { text-decoration:underline; }
 h5 {margin:0 1em; font-size:18px;}
 body > div { padding:2em; }
-section > div { margin:2em; }
+section > div { margin:4em 2em; }
 section > div > img { display:block; }
 code { font-family:monospace; background-color:#e6e6e6; border-radius:3px; border:1px solid #cccccc; padding:0 4px; }
 header > img { width:100%; height:auto; }
