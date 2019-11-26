@@ -13,9 +13,12 @@
 	<a href="#">How to</a>
 	<div class="dropdown-content">
 	<table style="width:100%">
-		<tr><td><a href="./hot01.html#dc01">Load FeedMoe Skin</a></td><td><a href="./hot02.html#dc01">3 steps to create your custom feed skin</a></td></tr>
+		<tr><td><a href="./hot01.html#dc01">Load FeedMoe skin.</a></td><td><a href="./hot02.html#dc01">3 steps to create your custom feed skin.</a></td></tr>
 		<tr><td><a href="./hot01.html#dc02">Make background transparent</a></td><td><a href="./hot02.html#dc02">Skin.ini | SKIN_WIDTH, MAX_ITEMS</a></td></tr>
 		<tr><td><a href="./hot01.html#dc03">Show/Hide Header</a></td><td><a href="./hot02.html#dc03">Skin.ini | FEED_FONT_NAME, ITEM_FONT_NAME</a></td></tr>
+		<tr><td>&nbsp;</td><td><a href="./hot02.html#dc04">Skin.ini | lastest 1 story</a></td></tr>
+		<tr><td>&nbsp;</td><td><a href="./hot02.html#dc05">Skin.ini file Comments</a></td></tr>
+		<tr><td>&nbsp;</td><td><a href="./hot02.html#dc06">[Variables] section and defaut variables.</a></td></tr>
 	</table>
 	</div>
 </div>
@@ -25,7 +28,7 @@
 <div>You can modify [Variables] section in the Skin.ini file.<br />More details... Skins\FeedMoe\@Resources\<a href="https://nek7u.github.io/FeedMoe/b/FeedMoe/%40Resources/About.txt" target="_blank">About.txt</a></div>
 <section>
 <div>
-<h4 id="dc01">3 steps to create your custom feed skin</h4>
+<h4 id="dc01">3 steps to create your custom feed skin.</h4>
 	<ol>
 		<li>Copy and rename the folder under the Skins\FeedMoe\</li>
 		<li>Click [Refresh all] button, select Skin.ini and click [Edit] button.</li>
@@ -55,7 +58,7 @@
 </section>
 <section>
 <div>
-<h4>Skin.ini | lastest 1 story</h4>
+<h4 id="dc04">Skin.ini | lastest 1 story</h4>
 <code lang="en">MAX_ITEMS=1</code><br />
 Make background transparent and hide header
 <img src="./a/hot02_04.png" alt="" loading="lazy" />
@@ -63,10 +66,18 @@ Make background transparent and hide header
 </section>
 <section>
 <div>
-<h4>Skin.ini file Comments</h4>
+<h4 id="dc05">Skin.ini file Comments</h4>
 You can modify [Variables] section in the Skin.ini file.<br />
 Single line comments start with <code lang="en">;</code>.<br />
-<code lang="en">;this comments is ignored by Rainmeter.</code>
+<code lang="en">;this comments is ignored by Rainmeter.</code><br />
+<code lang="en">;SKIN_WIDTH=280</code> This variable will be ignored too.<br />
+</div>
+</section>
+<section>
+<div>
+<h4 id="dc06">[Variables] section and defaut variables.</h4>
+<code lang="en">SKIN_WIDTH=280</code> is defined in <code lang="en">Skins\FeedMoe\@Resources\Variables.inc</code> as default variable.<br />
+Default variables are overridden by [Variables] section in each Skin.ini file.
 </div>
 </section>
 <div>More details... Skins\FeedMoe\@Resources\<a href="https://nek7u.github.io/FeedMoe/b/FeedMoe/%40Resources/About.txt" target="_blank">About.txt</a></div>
