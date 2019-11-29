@@ -3,7 +3,7 @@
 <meta charset="UTF-8"/>
 <link rel="stylesheet" href="./a/common.css" />
 <link rel="stylesheet" href="./a/navi.css" />
-<title>How to #1 - FeedMoe</title>
+<title>How to #3 - FeedMoe</title>
 </head>
 <body>
 <nav id="na">
@@ -26,32 +26,36 @@
 </nav>
 
 <div>
+<h2>Skin.ini | ITEM_TITLE_SUBSTITUTE</h2>
+<div>Keyword filtering using the regular expressions.<br /><code lang="en">"pattern":"replacement","pattern":"replacement"...</code><br />Here are some examples.</div>
 <section>
 <div>
-<h4 id="dc01">Load FeedMoe skin</h4>
-	<ol>
-		<li>Click the <img src="./a/16x11_Rainmeter.png" alt="" class="ico16" />Rainmeter icon in the notification area.</li>
-		<li>Select Skin.ini and Click [Load] button.</li>
-	</ol>
-<video width="800" controls>
-  <source src="./a/hot01_01.mp4" type="video/mp4">
-</video>
+<h4 id="dc01">Shorten a word.</h4>
+<code lang="en">ITEM_TITLE_SUBSTITUTE="Microsoft":"M.","Windows":"W."</code><br />
+<img src="./a/hot03_01.png" alt="" loading="lazy" />
 </div>
 </section>
 <section>
 <div>
-<h4 id="dc02">Make background transparent</h4>
-<video width="800" controls>
-  <source src="./a/hot01_02.mp4" type="video/mp4">
-</video>
+<h4 id="dc02">Shorten a title.</h4>
+<code lang="en">ITEM_TITLE_SUBSTITUTE=".+?(KB\d{7}).+":"\1"</code><br />
+<img src="./a/hot03_02.png" alt="" loading="lazy" />
 </div>
 </section>
 <section>
 <div>
-<h4 id="dc03">Show/Hide Header</h4>
-<video width="800" controls>
-  <source src="./a/hot01_03.mp4" type="video/mp4">
-</video>
+<h4 id="dc03">Hide items if title match KEYWORDS.</h4>
+If title is empty(""), the item will not be listed.<br />
+<code lang="en">ITEM_TITLE_SUBSTITUTE="(?si)^.*?\b(?:Beta|Dev)\b.*":""</code><br />
+<img src="./a/hot03_03.png" alt="" loading="lazy" />
+</div>
+</section>
+<section>
+<div>
+<h4 id="dc04">Show items if title match KEYWORDS.</h4>
+If title is empty(""), the item will not be listed.<br />
+<code lang="en">ITEM_TITLE_SUBSTITUTE="(?si)(?(?!.*?\b(?:Stable)\b)^.+)":""</code><br />
+<img src="./a/hot03_04.png" alt="" loading="lazy" />
 </div>
 </section>
 <p class="pnav"><a href="#na"><img src="./a/pagetop.png" alt="" class="ico24" />PAGE TOP</a></p>
