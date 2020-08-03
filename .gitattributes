@@ -4,4 +4,4 @@
 /b export-ignore
 /c export-ignore
 /m export-ignore
-
+*.html export-ignore
