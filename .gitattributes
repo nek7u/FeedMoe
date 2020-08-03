@@ -1,6 +1,7 @@
 .gitattributes export-ignore
 .gitignore export-ignore
 *.html export-ignore
+*.md
 /a export-ignore
 /b export-ignore
 /c export-ignore
