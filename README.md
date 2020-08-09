@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat&logo=windows) ![](https://img.shields.io/github/v/release/nek7u/FeedMoe?style=flat&include_prereleases)  
+![](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat&logo=windows) ![](https://img.shields.io/badge/Rainmeter->%3D%204.3-E09028?style=flat) ![](https://img.shields.io/github/v/release/nek7u/FeedMoe?style=flat&include_prereleases)  
 <!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nek7u/FeedMoe?include_prereleases) -->
 
 https://forum.rainmeter.net/viewtopic.php?f=27&t=33918  
