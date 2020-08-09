@@ -1,4 +1,4 @@
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nek7u/FeedMoe?include_prereleases)
+<!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nek7u/FeedMoe?include_prereleases) -->
 
 https://forum.rainmeter.net/viewtopic.php?f=27&t=33918  
 
