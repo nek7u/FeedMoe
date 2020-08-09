@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/OS-Windows%2010-0078D6)  
+![](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=plastic&logo=windows)  
 <!-- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/nek7u/FeedMoe?include_prereleases) -->
 
 https://forum.rainmeter.net/viewtopic.php?f=27&t=33918  
