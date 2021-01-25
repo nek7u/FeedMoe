@@ -10,6 +10,6 @@
 /f export-ignore
 /m export-ignore
 
-# https://github.com/github/linguist/#how-linguist-works
-*.html linguist-vendored
-*.css linguist-vendored
+# https://github.com/github/linguist/#using-gitattributes
+*.html linguist-documentation
+*.css linguist-documentation
