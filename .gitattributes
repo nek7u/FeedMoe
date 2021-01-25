@@ -1,19 +1,4 @@
 *.* export-ignore
 /* export-ignore
-# .gitattributes export-ignore
-# .gitignore export-ignore
-# *.md export-ignore
-# *.html export-ignore
-# *.css export-ignore
-# /a export-ignore
-# /b export-ignore
-# /c export-ignore
-# /d export-ignore
-# /e export-ignore
-# /f export-ignore
-# /m export-ignore
-
 # https://github.com/github/linguist/#using-gitattributes
-# *.html linguist-documentation
-# *.css linguist-documentation
 *.* linguist-documentation
