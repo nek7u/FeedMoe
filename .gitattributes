@@ -11,3 +11,4 @@
 /m export-ignore
 
 *.html linguist-vendored
+*.css linguist-vendored
