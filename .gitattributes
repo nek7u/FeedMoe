@@ -1,4 +1,5 @@
 *.* export-ignore
+/* export-ignore
 # .gitattributes export-ignore
 # .gitignore export-ignore
 # *.md export-ignore
