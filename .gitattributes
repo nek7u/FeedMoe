@@ -9,3 +9,5 @@
 /e export-ignore
 /f export-ignore
 /m export-ignore
+
+*.html linguist-vendored
