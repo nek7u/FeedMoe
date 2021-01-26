@@ -27,7 +27,7 @@ SHA256 `9ba04d5718df3510e087066c033dfcd87e86cd5f6436d110fb7631124e1e3aba`
 1. Double-click the downloaded FeedkMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
-4. Select the FeedMoe\News_Yahoo!US\Skin.ini and [Load]
+4. Select the **FeedMoe\News_Yahoo!US\Skin.ini** and [Load]
 ### Usage
 - Right-click to access the option settings.
 - Scroll the mouse wheel button over the header to change the skin width.
