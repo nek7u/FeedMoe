@@ -7,6 +7,7 @@
 <!-- ![](https://repository-images.githubusercontent.com/223094125/b5cc9980-be4f-11ea-9b89-9f58aa4e5eab) -->
 ## FeddMoe
 [Rainmeter](http://www.rainmeter.net/) [skin](https://docs.rainmeter.net/manual/getting-started/#WhatIsASkin) for [RSS](https://en.wikipedia.org/wiki/RSS) feeds. Windows desktop.  
+Rainmeter is a desktop customization tool for Windows.  
 https://forum.rainmeter.net/viewtopic.php?t=33918
 ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/1280x480_FeedMoe_preview.png)  
 ### Features
