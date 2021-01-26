@@ -23,7 +23,7 @@ SHA256 `9ba04d5718df3510e087066c033dfcd87e86cd5f6436d110fb7631124e1e3aba`
 * 2020-08-02
   + Implemented XmlParser.dll (9 KB) to read a RSS1.0/RDF feed.
 ### Install & Activate the skin
-0. If you don't have Rainmeter installed, download and install the Rainmeter application first.
+0. If you don't have Rainmeter installed, download and install the [Rainmeter](http://www.rainmeter.net/) application first.
 1. Double-click the downloaded FeedkMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
@@ -32,7 +32,7 @@ SHA256 `9ba04d5718df3510e087066c033dfcd87e86cd5f6436d110fb7631124e1e3aba`
 - Right-click to access the option settings.
 - Scroll the mouse wheel button over the header to change the skin width.
 - Middle-click to show/hide the header/body.
-- **Making background transparent**
+- **Making background transparent**  
   right-click the skin > Appearance > Transparency > 100%
 ### Credits
 - Plugin FeedReader.dll version 2.3.0 by [Martin R. Green](https://www.deviantart.com/limeycanuck)
