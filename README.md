@@ -14,15 +14,15 @@ https://forum.rainmeter.net/viewtopic.php?t=33918
 - Simple skin for RSS2.0, RSS1.0/RDF and Atom feeds. Rainmeter skin.
 - Keyword filtering, URL filtering.
 ### Download
-- [FeedMoe_20210124.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-01-24/FeedMoe_20210124.rmskin) (100 KB, github.com)  
-SHA256 `9ba04d5718df3510e087066c033dfcd87e86cd5f6436d110fb7631124e1e3aba`
+- [FeedMoe_20210129.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-01-24/FeedMoe_20210129.rmskin) (100 KB, github.com)  
+SHA256 `7a955bf743535d75557076e3e4a0708bded93ebfc279040591c0ebfe434aefb0`
 ### Changelog `(YYYY-MM-DD)`
+* 2021-01-29
+  * Fixed a bug related context menus.
 * 2021-01-24
   * Update config - News_Yahoo!JP & News_Yahoo!US
   * Update context menus (right-click menus).
   * Changed hexadecimal colors specification in the Variables section. (RRGGBBAA to RRGGBB)
-* 2020-08-02
-  + Implemented XmlParser.dll (9 KB) to read a RSS1.0/RDF feed.
 ### Install & Activate the skin
 0. If you don't have Rainmeter installed, download and install the [Rainmeter](http://www.rainmeter.net/) application first.
 1. Double-click the downloaded FeedkMoe_xxxx.rmskin and [Install].
