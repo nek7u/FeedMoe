@@ -9,7 +9,7 @@
 [Rainmeter](http://www.rainmeter.net/) [skin](https://docs.rainmeter.net/manual/getting-started/#WhatIsASkin) for [RSS](https://en.wikipedia.org/wiki/RSS) feeds. Windows desktop.  
 Rainmeter is a desktop customization tool for Windows.  
 https://forum.rainmeter.net/viewtopic.php?t=33918
-![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/1280x480_FeedMoe_preview.png)  
+![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/FeedMoe_preview.png)  
 ### Features
 - Simple skin for RSS2.0, RSS1.0/RDF and Atom feeds. Rainmeter skin.
 - Keyword filtering, URL filtering.
