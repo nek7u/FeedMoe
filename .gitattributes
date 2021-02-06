@@ -1,4 +1,6 @@
-*.* export-ignore
-/* export-ignore
+# *.* export-ignore
+# /* export-ignore
+* export-ignore
 # https://github.com/github/linguist/#using-gitattributes
-*.* linguist-documentation
+# *.* linguist-documentation
+* linguist-documentation
