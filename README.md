@@ -27,7 +27,7 @@ SHA256 `86d6ffb59356f4442411d0e2a1dac5ff68a720b513ead6f21f9d5eb82f6631d0`
   * Update config - News_Yahoo!JP & News_Yahoo!US
   * Update context menus (right-click menus).
   * Changed hexadecimal colors specification in the Variables section. (RRGGBBAA to RRGGBB)
-### Install & Activate the skin
+### Install & Activate a skin
 0. If you don't have [Rainmeter](http://www.rainmeter.net/) installed, download (beta release is recommended) and install the [Rainmeter](http://www.rainmeter.net/) application first.
 1. Double-click the downloaded FeedkMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the bottom-right of desktop.
