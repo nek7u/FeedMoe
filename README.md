@@ -14,10 +14,10 @@ https://forum.rainmeter.net/viewtopic.php?t=33918
 - Simple skin for RSS2.0, RSS1.0/RDF and Atom feeds. Rainmeter skin.
 - Keyword filtering, URL filtering.
 ### Download
-- [FeedMoe_20210321.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-03-21/FeedMoe_20210321.rmskin) (101 KB, github.com)  
-SHA256 `b1d9ae9bacb8a788aef2de89c8e878e2f62862db140bf3efc1a64f3a5da4fdbf`
+- [FeedMoe_20210322.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-03-22/FeedMoe_20210322.rmskin) (101 KB, github.com)  
+SHA256 `78c0d27bd3fc963d7b6a2f7bf4ddf30325d1a18aa4f7e8c2684c5ccb17ad70ab`
 ### Changelog `(YYYY-MM-DD)`
-* 2021-03-21  
+* 2021-03-22  
   * Updated code to improve the performance.  
   * Changed Twitter feed server nitter.net to alternative server. 
 * 2021-03-11
