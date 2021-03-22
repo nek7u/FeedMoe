@@ -5,11 +5,20 @@
 -->
 <!--![](https://img.shields.io/github/v/release/nek7u/FeedMoe?style=flat&include_prereleases)  -->
 <!-- ![](https://repository-images.githubusercontent.com/223094125/b5cc9980-be4f-11ea-9b89-9f58aa4e5eab) -->
+
+
 ## FeedMoe
 [Rainmeter](http://www.rainmeter.net/) [skin](https://docs.rainmeter.net/manual/getting-started/#WhatIsASkin) for [RSS](https://en.wikipedia.org/wiki/RSS) feeds. Windows desktop.  
 Rainmeter is a desktop customization tool for Windows.  
 https://forum.rainmeter.net/viewtopic.php?t=33918
 ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/FeedMoe_preview.png)  
+
+<details><summary>Animated preview</summary>
+
+![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/AnimatedPreview.gif)  
+
+</details>
+
 ### Features
 - Simple skin for RSS2.0, RSS1.0/RDF and Atom feeds. Rainmeter skin.
 - Keyword filtering, URL filtering.
