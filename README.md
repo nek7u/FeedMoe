@@ -24,7 +24,7 @@ https://forum.rainmeter.net/viewtopic.php?t=33918
 - Keyword filtering, URL filtering.
 ### Download
 - [FeedMoe_20210322.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-03-22/FeedMoe_20210322.rmskin) (101 KB, github.com)  
-SHA256 `78c0d27bd3fc963d7b6a2f7bf4ddf30325d1a18aa4f7e8c2684c5ccb17ad70ab`
+SHA256 `1eecac5b1c75d03b0c5dcc39818838025c1808b91748836fe0eb2f6572d9f915`
 ### Changelog `(YYYY-MM-DD)`
 * 2021-03-22  
   * Updated code to improve the performance.  
