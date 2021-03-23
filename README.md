@@ -23,8 +23,8 @@ https://forum.rainmeter.net/viewtopic.php?t=33918
 - Simple skin for RSS2.0, RSS1.0/RDF and Atom feeds. Rainmeter skin.
 - Keyword filtering, URL filtering.
 ### Download
-- [FeedMoe_20210322.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-03-22/FeedMoe_20210322.rmskin) (101 KB, github.com)  
-SHA256 `1eecac5b1c75d03b0c5dcc39818838025c1808b91748836fe0eb2f6572d9f915`
+- [FeedMoe_20210322.rmskin](https://github.com/nek7u/FeedMoe/releases/download/2021-03-22/FeedMoe_20210322.rmskin) (105 KB, github.com)  
+SHA256 `f17c4cc44328ff456659fd6dce6ae24a49555fdeb5cc6daf1185b382bebf545d`
 ### Changelog `(YYYY-MM-DD)`
 * 2021-03-22  
   * Updated code to improve the performance.  
