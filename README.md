@@ -41,7 +41,7 @@ SHA256 `f17c4cc44328ff456659fd6dce6ae24a49555fdeb5cc6daf1185b382bebf545d`
 4. Select the **FeedMoe\News_Yahoo!US\Skin.ini** and [Load]
 ### Usage
 - Right-click to access the option settings.
-- Scroll the mouse wheel button over the header to change the skin width.
+- Mouse wheel over the header to change the skin width.
 - Middle-click to show/hide the header/body.
 - **Making background transparent**  
   right-click the skin > Appearance > Transparency > 100%
