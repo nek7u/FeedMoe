@@ -1,5 +1,5 @@
 <!-- https://guides.github.com/features/mastering-markdown/ -->
-![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-Windows10.png) [![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-Rainmeter.png)](https://www.rainmeter.net/) [![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-RSS.png)](https://en.wikipedia.org/wiki/RSS) ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-DPIUnaware.png)
+![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-Windows10.png) [![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-Rainmeter.png)](https://www.rainmeter.net/) [![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-RSS.png)](https://en.wikipedia.org/wiki/RSS) ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/Badge-UnscalableSkin.png)
 <!--
 ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/badge-windows.svg) ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/badge-rainmeter.svg) ![](https://raw.githubusercontent.com/nek7u/FeedMoe/master/m/badge-rss.svg)
 -->
