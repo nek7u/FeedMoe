@@ -1,79 +1,15 @@
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="UTF-8"/>
-<link rel="stylesheet" href="./a/common.css" />
-<link rel="stylesheet" href="./a/navi.css" />
-<title>How to #3 - FeedMoe</title>
+<title>This page is outdated</title>
 </head>
 <body>
-<nav id="na">
-<a href="./index.html">FeedMoe</a>
-<a href="./index.html#do">Download</a>
-<div class="dropdown">
-	<a href="#">How to</a>
-	<div class="dropdown-content">
-	<table style="width:100%">
-		<tr><td><a href="./hot01.html#dc01">Load FeedMoe skin.</a></td><td><a href="./hot02.html#dc05">Skin.ini file Comments</a></td></tr>
-		<tr><td><a href="./hot01.html#dc02">Make background transparent</a></td><td><a href="./hot02.html#dc06">[Variables] section and defaut variables.</a></td></tr>
-		<tr><td><a href="./hot01.html#dc03">Show/Hide Header</a></td><td>&nbsp;</td></tr>
-		<tr><td>&nbsp;</td><td><a href="./hot03.html#dc01">Shorten a word.</a></td></tr>
-		<tr><td><a href="./hot02.html#dc01">3 steps to create your custom feed skin.</a><img src="./a/bookmark.png" alt="" class="ico24" /></td><td><a href="./hot03.html#dc02">Shorten a title.</a></td></tr>
-		<tr><td><a href="./hot02.html#dc02">Skin.ini | SKIN_WIDTH, MAX_ITEMS</a></td><td><a href="./hot03.html#dc03">Hide items if title matches KEYWORDS.<img src="./a/bookmark.png" alt="" class="ico24" /></a></td></tr>
-		<tr><td><a href="./hot02.html#dc03">Skin.ini | FEED_FONT_NAME, ITEM_FONT_NAME</a></td><td><a href="./hot03.html#dc04">Show items if title matches KEYWORDS.</a></td></tr>
-		<tr><td><a href="./hot02.html#dc04">Skin.ini | lastest 1 story</a></td><td><a href="./hot03.html#dc05">A summary of the keyword filtering.</a></td></tr>
-	</table>
-	</div>
-</div>
-</nav>
-
-<div>
-<h2>Skin.ini | ITEM_TITLE_SUBSTITUTE</h2>
-<div>Keyword filtering using the regular expressions.<br /><code>"pattern":"replacement","pattern":"replacement",...</code><br />Here are some examples.</div>
-<section>
-<div>
-<h4 id="dc01">Shorten a word.</h4>
-<code>ITEM_TITLE_SUBSTITUTE="Microsoft":"M.","Windows":"W."</code><br />
-<img src="./a/hot03_01.png" alt="" loading="lazy" />
-</div>
-</section>
-<section>
-<div>
-<h4 id="dc02">Shorten a title.</h4>
-<code>ITEM_TITLE_SUBSTITUTE=".+?(KB\d{7}).+":"\1"</code><br />
-<img src="./a/hot03_02.png" alt="" loading="lazy" />
-</div>
-</section>
-<section>
-<div>
-<h4 id="dc03">Hide items if title matches KEYWORDS.<img src="./a/bookmark.png" alt="" class="ico24" /></h4>
-<code>ITEM_TITLE_SUBSTITUTE="(?si)^.*?\b(?:Beta|Dev)\b.*":""</code><br />
-<img src="./a/hot03_03.png" alt="" loading="lazy" />
-If title is empty(""), the item will not be listed.
-</div>
-</section>
-<section>
-<div>
-<h4 id="dc04">Show items if title matches KEYWORDS.</h4>
-<code>ITEM_TITLE_SUBSTITUTE="(?si)(?(?!.*?\b(?:Stable)\b)^.+)":""</code><br />
-<img src="./a/hot03_04.png" alt="" loading="lazy" />
-If title is empty(""), the item will not be listed.
-</div>
-</section>
-<section>
-<div>
-<h4 id="dc05">A summary of the keyword filtering.</h4>
-<p>Keyword filtering is defined <br /><code>ITEM_TITLE_SUBSTITUTE="pattern":"replacement"</code><br />
-of [Variables] section in the Skin.ini file.</p>
-<p>The format is <code>"pattern":"replacement","pattern":"replacement",...</code></p>
-<p>You can hide stories those you don't need.<br />
-<code>ITEM_TITLE_SUBSTITUTE="(?si)^.*?\b(?:KEYWORD1|KEYWORD2|KEYWORD3)\b.*":""</code></p>
-<p>You can show stories what you are interested in.<br />
-<code>ITEM_TITLE_SUBSTITUTE="(?si)(?(?!.*?\b(?:KEYWORD1|KEYWORD2|KEYWORD3)\b)^.+)":""</code></p>
-<p><code>|</code> means alternative like OR.<br /></p>
-<p>Just copy & paste the examples, and replace the <code>KEYWORD</code> what you like.</p>
-</div>
-</section>
-<p class="pnav"><a href="#na"><img src="./a/pagetop.png" alt="" class="ico24" />PAGE TOP</a></p>
-</div>
+	<h2>This page is outdated.</h2>
+	<h3>See <a href="https://github.com/nek7u/FeedMoe/wiki">FeedMoe Wiki Page</a></h3>
 </body>
+<script type="text/javascript" charset="utf-8">
+window.addEventListener("load", function(){
+	window.location.href="https://github.com/nek7u/FeedMoe/wiki";
+});
+</script>
 </html>
