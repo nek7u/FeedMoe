@@ -1,14 +1,14 @@
 ## Contents
-* [HowTo] Install and Loading a skin
-* [HowTo] Usage of a skin
-* ~~[HowTo] Making background transparent~~
-* [HowTo] Creating your feed skin
-* [Guide] Variables of a Skin.ini
-* [Guide] Keyword filtering
-* ~~[Guide] The number of articles included in the RSS feed~~
-* [Resources] Gallery of FeedMoe skin styles
-* [Resources] Skin.ini examples
-* [FAQ] Frequently asked questions
+-[x] [HowTo] Install and Loading a skin  
+-[x] [HowTo] Usage of a skin  
+-[ ] ~~[HowTo] Making background transparent~~  
+-[x] [HowTo] Creating a skin for your feed  
+-[x] [Guide] Variables of a Skin.ini  
+-[x] [Guide] Keyword filtering  
+-[ ] ~~[Guide] The number of articles included in the RSS feed~~  
+-[ ] [Resources] Gallery of FeedMoe skin styles  
+-[x] [Resources] Skin.ini examples  
+-[x] [FAQ] Frequently asked questions  
 
 ## Testing GitHub flavored markdown
 `![](/w/images/misc/windows-11.svg)`  
