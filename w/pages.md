@@ -23,7 +23,8 @@
 
 
 ## Emojis
-[emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+[Emojipedia](https://emojipedia.org/)  
+[emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 <!--
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 -->
