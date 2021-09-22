@@ -20,7 +20,13 @@
 `<img src="/w/images/misc/windows-11.svg" width="20" height="20" />`  
 <img src="/w/images/misc/windows-11.svg" width="20" height="20" />  
 
-
+## Testing emojis
+💡 Features  
+📦 Download  
+📅 Changelog  
+✏️ Install & Loading a skin  
+🖱️ Usage  
+🧾 Credits  
 
 ## Emojis
 [Emojipedia](https://emojipedia.org/)  
