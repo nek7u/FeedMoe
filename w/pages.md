@@ -6,9 +6,10 @@
 - [x] [Guide] Variables of a Skin.ini  
 - [x] [Guide] Keyword filtering  
 - [ ] ~~[Guide] The number of articles included in the RSS feed~~  
-- [ ] [Resources] Gallery of FeedMoe skin styles  
+- [ ] ~~[Resources] Gallery of FeedMoe skin styles~~  
 - [x] [Resources] Skin.ini examples  
 - [x] [FAQ] Frequently asked questions  
+- [ ] [Resources] Tips for Windows 10/11, Rainmeter   
 
 ## Testing GitHub flavored markdown
 `![](/w/images/misc/windows-11.svg)`  
