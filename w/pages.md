@@ -21,6 +21,10 @@
 `<img src="/w/images/misc/windows-11.svg" width="20" height="20" />`  
 <img src="/w/images/misc/windows-11.svg" width="20" height="20" />  
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}  
+
+
+
 ## Testing emojis
 💡 Features  
 📦 Download  
